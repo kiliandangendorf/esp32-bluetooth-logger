@@ -103,3 +103,6 @@ Or you upload the bin-file at an HTTPS server and send ota-message to remote Blu
 
 [Licensed under the MIT License](https://opensource.org/licenses/MIT).
 
+This software was developed in the context of my master thesis, which I wrote in the company [ATMINA Solutions GmbH](https://atmina.de).
+
+
